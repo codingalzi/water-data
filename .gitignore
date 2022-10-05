@@ -16,3 +16,4 @@
 **/person_pb2.py
 **/datasets
 **/desktop.ini
+**/*.pkl
